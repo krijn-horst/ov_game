@@ -1,0 +1,22 @@
+# GTFS data (statisch + afgeleide bestanden)
+gtfs_nl_static/
+*.zip
+*.pb
+*.geojson
+
+# Losse GTFS-tabellen, voor het geval ze buiten gtfs_nl_static/ staan
+agency.txt
+stops.txt
+routes.txt
+trips.txt
+stop_times.txt
+shapes.txt
+calendar.txt
+calendar_dates.txt
+routes_trips.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
