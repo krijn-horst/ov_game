@@ -4,6 +4,8 @@ gtfs_nl_static/
 *.pb
 *.geojson
 
+data/
+
 # Losse GTFS-tabellen, voor het geval ze buiten gtfs_nl_static/ staan
 agency.txt
 stops.txt
