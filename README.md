@@ -27,3 +27,28 @@ GTFS-bestanden bevatten onder andere:
 - [ ] GTFS-data inladen en parsen
 - [ ] Basisspelmechanica bepalen
 - [ ] Prototype bouwen
+
+
+
+
+Development
+
+# Run Django
+
+
+## To start the backend 
+- cd backend
+- python manage.py runserver
+
+Django:
+
+http://127.0.0.1:8000
+
+## To start frontend
+- cd frontend
+- npm run dev
+
+React:
+
+http://localhost:5173
+
