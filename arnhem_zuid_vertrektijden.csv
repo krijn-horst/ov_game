@@ -1,0 +1,987 @@
+poll_tijdstip,stop_id,stop_name,trip_id,route_short_name,bestemming,geplande_vertrektijd,voorspelde_vertrektijd,vertraging_sec
+2026-07-26T22:41:16,2992021,Arnhem Zuid,260631233,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,313318579,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,313319146,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,348318811,Sprinter,Nijmegen,23:16:00,23:16:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,348323139,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,348323806,Sprinter,Nijmegen,22:46:00,22:46:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,348323835,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366501780,Intercity,Zwolle,23:31:00,23:31:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366501943,Intercity,Zutphen,00:02:00,00:02:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366502468,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,366502566,Intercity,Nijmegen,23:28:00,23:28:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366502606,Sprinter,Arnhem Centraal,22:58:00,22:58:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366502807,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,366503053,Sprinter,Nijmegen,23:15:00,23:15:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,366503263,Intercity,Elst,00:00:00,00:00:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,366503579,Intercity,Elst,23:30:00,23:30:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366503894,Intercity,Zwolle,23:01:00,23:01:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,366504096,Sprinter,Nijmegen,22:45:00,22:45:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366504201,Intercity,Zwolle,00:38:00,00:38:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,366505039,Intercity,Nijmegen,22:58:00,22:58:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366505123,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366505221,Intercity,Zwolle,23:02:00,23:02:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,366506116,Intercity,Nijmegen,00:12:00,00:12:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366506177,Intercity,Zwolle,23:32:00,23:32:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,366506591,Sprinter,Nijmegen,23:45:00,23:45:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,366506755,Intercity,Elst,23:00:00,23:00:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,366507118,Intercity,Zutphen,00:01:00,00:01:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,368482188,Intercity,Arnhem Centraal,00:31:00,00:31:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,368483990,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,368484098,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,369748997,Sprinter,Nijmegen,23:32:00,23:32:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,369750306,Sprinter,Dordrecht,22:59:00,22:59:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,369751009,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,369751065,Sprinter,Arnhem Centraal,23:00:00,23:00:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,369752356,Sprinter,Zutphen,23:14:00,23:14:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,369752455,Sprinter,Arnhem Centraal,00:29:00,00:29:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,369752729,Sprinter,'s-Hertogenbosch,00:02:00,00:02:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,369754249,Sprinter,Dordrecht,23:02:00,23:02:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,369754744,Sprinter,Nijmegen,00:32:00,00:32:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,369756684,Sprinter,Arnhem Centraal,22:44:00,22:44:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,369756760,Sprinter,Arnhem Centraal,23:59:00,23:59:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,372348353,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:41:16,2992020,Arnhem Zuid,372353133,Sprinter,Dordrecht,23:06:00,23:06:00,0
+2026-07-26T22:41:16,2992021,Arnhem Zuid,372353390,Sprinter,Arnhem Centraal,22:59:00,22:59:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",372726196,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",372726198,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",372726199,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",372726200,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",372726201,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",372726202,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",372726203,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",372726205,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",372731153,36,Arnhem CS,22:38:00,22:38:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",372731155,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",372731157,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",372731158,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",372731397,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",372731400,43,Apeldoorn Station,22:37:00,22:37:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",372731401,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",372731402,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",373044517,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",373044519,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",373044520,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",373044521,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",373044522,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",373044523,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",373044524,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:16,3891302,"Arnhem, Station Arnhem Zuid",373044526,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",373048963,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",373048965,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:41:16,3891301,"Arnhem, Station Arnhem Zuid",373048967,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373048969,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373049334,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373049335,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373049336,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373049337,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373368394,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373368396,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373368397,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373368398,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373368399,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373368400,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373368401,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373372340,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373372342,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373372343,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373372747,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373372748,43,Apeldoorn Station,22:38:00,22:38:34,34
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373372749,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373372750,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675340,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675342,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675343,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675344,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675345,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675346,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675347,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675349,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675482,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675483,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675484,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675485,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675486,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675487,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675488,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675489,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675588,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675590,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675591,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675592,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675593,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675594,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675595,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675597,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675700,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675702,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675704,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675705,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675706,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675707,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675709,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675711,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675773,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675775,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675776,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675777,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675778,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675779,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675780,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675866,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675868,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675869,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373675870,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675871,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675873,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373675875,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373679620,36,Arnhem CS,22:38:00,22:38:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373679622,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373679624,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373679625,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373679681,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373679683,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373679685,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373679687,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373679719,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373679721,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373679722,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373679864,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373679865,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373679867,43,Apeldoorn Station,22:37:00,22:37:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373679868,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373679869,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680012,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680013,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373680015,43,Apeldoorn Station,22:37:00,22:37:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680016,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373680017,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680052,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373680053,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680054,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373680055,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680090,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373680091,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680092,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373680093,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680126,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373680127,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680128,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373680129,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680162,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373680163,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:41:17,3891302,"Arnhem, Station Arnhem Zuid",373680164,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:17,3891301,"Arnhem, Station Arnhem Zuid",373680165,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,260631233,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,313318579,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,313319146,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,348318811,Sprinter,Nijmegen,23:16:00,23:16:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,348323139,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,348323806,Sprinter,Nijmegen,22:46:00,22:46:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,348323835,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366501780,Intercity,Zwolle,23:31:00,23:31:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366501943,Intercity,Zutphen,00:02:00,00:02:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366502468,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,366502566,Intercity,Nijmegen,23:28:00,23:28:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366502606,Sprinter,Arnhem Centraal,22:58:00,22:58:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366502807,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,366503053,Sprinter,Nijmegen,23:15:00,23:15:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,366503263,Intercity,Elst,00:00:00,00:00:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,366503579,Intercity,Elst,23:30:00,23:30:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366503894,Intercity,Zwolle,23:01:00,23:01:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,366504096,Sprinter,Nijmegen,22:45:00,22:45:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366504201,Intercity,Zwolle,00:38:00,00:38:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,366505039,Intercity,Nijmegen,22:58:00,22:58:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366505123,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366505221,Intercity,Zwolle,23:02:00,23:02:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,366506116,Intercity,Nijmegen,00:12:00,00:12:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366506177,Intercity,Zwolle,23:32:00,23:32:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,366506591,Sprinter,Nijmegen,23:45:00,23:45:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,366506755,Intercity,Elst,23:00:00,23:00:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,366507118,Intercity,Zutphen,00:01:00,00:01:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,368482188,Intercity,Arnhem Centraal,00:31:00,00:31:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,368483990,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,368484098,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,369748997,Sprinter,Nijmegen,23:32:00,23:32:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,369750306,Sprinter,Dordrecht,22:59:00,22:59:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,369751009,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,369751065,Sprinter,Arnhem Centraal,23:00:00,23:00:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,369752356,Sprinter,Zutphen,23:14:00,23:14:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,369752455,Sprinter,Arnhem Centraal,00:29:00,00:29:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,369752729,Sprinter,'s-Hertogenbosch,00:02:00,00:02:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,369754249,Sprinter,Dordrecht,23:02:00,23:02:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,369754744,Sprinter,Nijmegen,00:32:00,00:32:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,369756684,Sprinter,Arnhem Centraal,22:44:00,22:44:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,369756760,Sprinter,Arnhem Centraal,23:59:00,23:59:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,372348353,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:41:48,2992020,Arnhem Zuid,372353133,Sprinter,Dordrecht,23:06:00,23:06:00,0
+2026-07-26T22:41:48,2992021,Arnhem Zuid,372353390,Sprinter,Arnhem Centraal,22:59:00,22:59:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",372726196,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",372726198,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",372726199,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",372726200,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",372726201,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",372726202,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",372726203,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",372726205,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",372731153,36,Arnhem CS,22:38:00,22:38:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",372731155,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",372731157,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",372731158,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",372731397,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",372731400,43,Apeldoorn Station,22:37:00,22:37:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",372731401,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",372731402,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373044517,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373044519,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373044520,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373044521,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373044522,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373044523,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373044524,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373044526,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373048963,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373048965,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373048967,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373048969,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373049334,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373049335,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373049336,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373049337,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373368394,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373368396,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373368397,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373368398,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373368399,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373368400,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373368401,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373372340,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373372342,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373372343,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373372747,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373372748,43,Apeldoorn Station,22:38:00,22:38:34,34
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373372749,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373372750,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675340,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675342,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675343,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675344,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675345,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675346,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675347,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675349,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675482,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675483,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675484,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675485,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675486,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675487,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675488,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675489,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675588,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675590,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675591,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675592,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675593,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675594,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675595,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675597,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675700,5,Schuytgraaf,22:37:00,22:37:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675702,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675704,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675705,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675706,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675707,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675709,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675711,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675773,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675775,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675776,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675777,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675778,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675779,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675780,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675866,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675868,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675869,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373675870,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675871,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675873,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373675875,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373679620,36,Arnhem CS,22:38:00,22:38:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373679622,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373679624,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373679625,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373679681,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373679683,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373679685,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373679687,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373679719,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373679721,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373679722,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373679864,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373679865,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373679867,43,Apeldoorn Station,22:37:00,22:37:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373679868,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373679869,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680012,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680013,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373680015,43,Apeldoorn Station,22:37:00,22:37:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680016,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373680017,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680052,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373680053,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680054,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373680055,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680090,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373680091,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680092,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373680093,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680126,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373680127,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680128,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373680129,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680162,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373680163,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:41:48,3891302,"Arnhem, Station Arnhem Zuid",373680164,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:41:48,3891301,"Arnhem, Station Arnhem Zuid",373680165,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,260631233,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,313318579,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,313319146,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,348318811,Sprinter,Nijmegen,23:16:00,23:16:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,348323139,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,348323806,Sprinter,Nijmegen,22:46:00,22:46:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,348323835,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366501780,Intercity,Zwolle,23:31:00,23:31:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366501943,Intercity,Zutphen,00:02:00,00:02:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366502468,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,366502566,Intercity,Nijmegen,23:28:00,23:28:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366502606,Sprinter,Arnhem Centraal,22:58:00,22:58:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366502807,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,366503053,Sprinter,Nijmegen,23:15:00,23:15:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,366503263,Intercity,Elst,00:00:00,00:00:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,366503579,Intercity,Elst,23:30:00,23:30:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366503894,Intercity,Zwolle,23:01:00,23:01:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,366504096,Sprinter,Nijmegen,22:45:00,22:45:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366504201,Intercity,Zwolle,00:38:00,00:38:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,366505039,Intercity,Nijmegen,22:58:00,22:58:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366505123,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366505221,Intercity,Zwolle,23:02:00,23:02:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,366506116,Intercity,Nijmegen,00:12:00,00:12:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366506177,Intercity,Zwolle,23:32:00,23:32:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,366506591,Sprinter,Nijmegen,23:45:00,23:45:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,366506755,Intercity,Elst,23:00:00,23:00:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,366507118,Intercity,Zutphen,00:01:00,00:01:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,368482188,Intercity,Arnhem Centraal,00:31:00,00:31:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,368483990,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,368484098,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,369748997,Sprinter,Nijmegen,23:32:00,23:32:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,369750306,Sprinter,Dordrecht,22:59:00,22:59:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,369751009,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,369751065,Sprinter,Arnhem Centraal,23:00:00,23:00:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,369752356,Sprinter,Zutphen,23:14:00,23:14:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,369752455,Sprinter,Arnhem Centraal,00:29:00,00:29:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,369752729,Sprinter,'s-Hertogenbosch,00:02:00,00:02:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,369754249,Sprinter,Dordrecht,23:02:00,23:02:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,369754744,Sprinter,Nijmegen,00:32:00,00:32:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,369756684,Sprinter,Arnhem Centraal,22:44:00,22:44:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,369756760,Sprinter,Arnhem Centraal,23:59:00,23:59:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,372348353,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:42:19,2992020,Arnhem Zuid,372353133,Sprinter,Dordrecht,23:06:00,23:06:00,0
+2026-07-26T22:42:19,2992021,Arnhem Zuid,372353390,Sprinter,Arnhem Centraal,22:59:00,22:59:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",372726196,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",372726198,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",372726200,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",372726201,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",372726202,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",372726203,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",372726205,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",372731153,36,Arnhem CS,22:38:00,22:38:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",372731155,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",372731157,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",372731158,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",372731397,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",372731401,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",372731402,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373044517,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373044519,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373044521,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373044522,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373044523,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373044524,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373044526,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373048963,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373048965,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373048967,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373048969,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373049334,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373049335,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373049336,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373049337,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373368394,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373368396,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373368397,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373368398,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373368399,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373368400,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373368401,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373372340,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373372342,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373372343,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373372747,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373372748,43,Apeldoorn Station,22:38:00,22:38:34,34
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373372749,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373372750,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675340,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675342,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675344,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675345,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675346,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675347,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675349,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675483,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675484,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675485,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675486,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675487,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675488,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675489,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675588,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675590,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675592,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675593,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675594,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675595,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675597,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675702,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675704,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675705,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675706,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675707,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675709,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675711,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675773,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675775,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675776,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675777,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675778,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675779,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675780,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675866,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675868,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675869,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373675870,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675871,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675873,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373675875,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373679620,36,Arnhem CS,22:38:00,22:38:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373679622,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373679624,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373679625,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373679681,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373679683,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373679685,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373679687,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373679719,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373679721,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373679722,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373679864,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373679865,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373679868,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373679869,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680012,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680013,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680016,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373680017,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680052,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373680053,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680054,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373680055,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680090,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373680091,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680092,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373680093,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680126,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373680127,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680128,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373680129,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680162,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373680163,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:42:19,3891302,"Arnhem, Station Arnhem Zuid",373680164,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:19,3891301,"Arnhem, Station Arnhem Zuid",373680165,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,260631233,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,313318579,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,313319146,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,348318811,Sprinter,Nijmegen,23:16:00,23:16:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,348323139,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,348323806,Sprinter,Nijmegen,22:46:00,22:46:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,348323835,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366501780,Intercity,Zwolle,23:31:00,23:31:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366501943,Intercity,Zutphen,00:02:00,00:02:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366502468,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,366502566,Intercity,Nijmegen,23:28:00,23:28:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366502606,Sprinter,Arnhem Centraal,22:58:00,22:58:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366502807,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,366503053,Sprinter,Nijmegen,23:15:00,23:15:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,366503263,Intercity,Elst,00:00:00,00:00:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,366503579,Intercity,Elst,23:30:00,23:30:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366503894,Intercity,Zwolle,23:01:00,23:01:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,366504096,Sprinter,Nijmegen,22:45:00,22:45:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366504201,Intercity,Zwolle,00:38:00,00:38:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,366505039,Intercity,Nijmegen,22:58:00,22:58:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366505123,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366505221,Intercity,Zwolle,23:02:00,23:02:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,366506116,Intercity,Nijmegen,00:12:00,00:12:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366506177,Intercity,Zwolle,23:32:00,23:32:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,366506591,Sprinter,Nijmegen,23:45:00,23:45:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,366506755,Intercity,Elst,23:00:00,23:00:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,366507118,Intercity,Zutphen,00:01:00,00:01:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,368482188,Intercity,Arnhem Centraal,00:31:00,00:31:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,368483990,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,368484098,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,369748997,Sprinter,Nijmegen,23:32:00,23:32:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,369750306,Sprinter,Dordrecht,22:59:00,22:59:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,369751009,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,369751065,Sprinter,Arnhem Centraal,23:00:00,23:00:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,369752356,Sprinter,Zutphen,23:14:00,23:14:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,369752455,Sprinter,Arnhem Centraal,00:29:00,00:29:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,369752729,Sprinter,'s-Hertogenbosch,00:02:00,00:02:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,369754249,Sprinter,Dordrecht,23:02:00,23:02:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,369754744,Sprinter,Nijmegen,00:32:00,00:32:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,369756684,Sprinter,Arnhem Centraal,22:44:00,22:44:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,369756760,Sprinter,Arnhem Centraal,23:59:00,23:59:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,372348353,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:42:50,2992020,Arnhem Zuid,372353133,Sprinter,Dordrecht,23:06:00,23:06:00,0
+2026-07-26T22:42:50,2992021,Arnhem Zuid,372353390,Sprinter,Arnhem Centraal,22:59:00,22:59:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",372726196,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",372726198,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",372726200,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",372726201,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",372726202,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",372726203,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",372726205,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",372731153,36,Arnhem CS,22:38:00,22:38:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",372731155,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",372731157,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",372731158,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",372731397,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",372731401,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",372731402,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373044517,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373044519,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373044521,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373044522,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373044523,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373044524,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373044526,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373048963,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373048965,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373048967,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373048969,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373049334,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373049335,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373049336,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373049337,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373368394,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373368396,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373368397,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373368398,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373368399,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373368400,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373368401,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373372340,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373372342,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373372343,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373372747,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373372748,43,Apeldoorn Station,22:38:00,22:38:34,34
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373372749,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373372750,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675340,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675342,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675344,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675345,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675346,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675347,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675349,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675483,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675484,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675485,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675486,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675487,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675488,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675489,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675588,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675590,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675592,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675593,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675594,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675595,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675597,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675702,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675704,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675705,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675706,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675707,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675709,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675711,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675773,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675775,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675776,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675777,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675778,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675779,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675780,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675866,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675868,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675869,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373675870,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675871,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675873,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373675875,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373679620,36,Arnhem CS,22:38:00,22:38:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373679622,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373679624,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373679625,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373679681,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373679683,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373679685,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373679687,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373679719,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373679721,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373679722,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373679864,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373679865,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:42:50,3891302,"Arnhem, Station Arnhem Zuid",373679868,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:42:50,3891301,"Arnhem, Station Arnhem Zuid",373679869,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680012,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680013,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680016,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:42:51,3891301,"Arnhem, Station Arnhem Zuid",373680017,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680052,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:51,3891301,"Arnhem, Station Arnhem Zuid",373680053,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680054,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:51,3891301,"Arnhem, Station Arnhem Zuid",373680055,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680090,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:51,3891301,"Arnhem, Station Arnhem Zuid",373680091,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680092,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:51,3891301,"Arnhem, Station Arnhem Zuid",373680093,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680126,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:51,3891301,"Arnhem, Station Arnhem Zuid",373680127,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680128,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:51,3891301,"Arnhem, Station Arnhem Zuid",373680129,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680162,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:42:51,3891301,"Arnhem, Station Arnhem Zuid",373680163,43,Apeldoorn Station,22:38:00,22:38:00,0
+2026-07-26T22:42:51,3891302,"Arnhem, Station Arnhem Zuid",373680164,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:42:51,3891301,"Arnhem, Station Arnhem Zuid",373680165,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,260631233,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,313318579,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,313319146,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,348318811,Sprinter,Nijmegen,23:16:00,23:16:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,348323139,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,348323806,Sprinter,Nijmegen,22:46:00,22:46:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,348323835,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366501780,Intercity,Zwolle,23:31:00,23:31:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366501943,Intercity,Zutphen,00:02:00,00:02:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366502468,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,366502566,Intercity,Nijmegen,23:28:00,23:28:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366502606,Sprinter,Arnhem Centraal,22:58:00,22:58:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366502807,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,366503053,Sprinter,Nijmegen,23:15:00,23:15:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,366503263,Intercity,Elst,00:00:00,00:00:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,366503579,Intercity,Elst,23:30:00,23:30:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366503894,Intercity,Zwolle,23:01:00,23:01:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,366504096,Sprinter,Nijmegen,22:45:00,22:45:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366504201,Intercity,Zwolle,00:38:00,00:38:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,366505039,Intercity,Nijmegen,22:58:00,22:58:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366505123,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366505221,Intercity,Zwolle,23:02:00,23:02:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,366506116,Intercity,Nijmegen,00:12:00,00:12:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366506177,Intercity,Zwolle,23:32:00,23:32:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,366506591,Sprinter,Nijmegen,23:45:00,23:45:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,366506755,Intercity,Elst,23:00:00,23:00:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,366507118,Intercity,Zutphen,00:01:00,00:01:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,368482188,Intercity,Arnhem Centraal,00:31:00,00:31:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,368483990,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,368484098,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,369748997,Sprinter,Nijmegen,23:32:00,23:32:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,369750306,Sprinter,Dordrecht,22:59:00,22:59:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,369751009,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,369751065,Sprinter,Arnhem Centraal,23:00:00,23:00:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,369752356,Sprinter,Zutphen,23:14:00,23:14:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,369752455,Sprinter,Arnhem Centraal,00:29:00,00:29:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,369752729,Sprinter,'s-Hertogenbosch,00:02:00,00:02:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,369754249,Sprinter,Dordrecht,23:02:00,23:02:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,369754744,Sprinter,Nijmegen,00:32:00,00:32:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,369756684,Sprinter,Arnhem Centraal,22:44:00,22:44:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,369756760,Sprinter,Arnhem Centraal,23:59:00,23:59:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,372348353,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:43:21,2992020,Arnhem Zuid,372353133,Sprinter,Dordrecht,23:06:00,23:06:00,0
+2026-07-26T22:43:21,2992021,Arnhem Zuid,372353390,Sprinter,Arnhem Centraal,22:59:00,22:59:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",372726196,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",372726198,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",372726200,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",372726201,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",372726202,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",372726203,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",372726205,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",372731155,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",372731157,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",372731158,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",372731397,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",372731401,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",372731402,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373044517,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373044519,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373044521,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373044522,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373044523,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373044524,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373044526,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373048963,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373048965,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373048967,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373048969,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373049334,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373049336,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373049337,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373368394,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373368396,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373368397,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373368398,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373368399,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373368400,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373368401,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373372340,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373372342,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373372343,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373372747,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373372749,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373372750,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675340,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675342,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675344,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675345,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675346,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675347,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675349,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675483,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675484,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675485,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675486,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675487,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675488,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675489,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675588,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675590,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675592,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675593,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675594,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675595,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675597,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675702,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675704,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675705,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675706,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675707,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675709,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675711,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675773,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675775,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675776,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675777,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675778,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675779,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675780,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675866,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675868,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675869,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373675870,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675871,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675873,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373675875,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373679622,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373679624,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373679625,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373679681,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373679683,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373679685,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373679687,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373679719,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373679721,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373679722,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373679864,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373679865,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373679868,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373679869,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680012,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680013,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680016,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373680017,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680052,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680054,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373680055,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680090,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680092,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373680093,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680126,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680128,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373680129,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680162,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:21,3891302,"Arnhem, Station Arnhem Zuid",373680164,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:21,3891301,"Arnhem, Station Arnhem Zuid",373680165,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,260631233,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,313318579,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,313319146,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,348318811,Sprinter,Nijmegen,23:16:00,23:16:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,348323139,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,348323806,Sprinter,Nijmegen,22:46:00,22:46:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,348323835,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366501780,Intercity,Zwolle,23:31:00,23:31:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366501943,Intercity,Zutphen,00:02:00,00:02:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366502468,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,366502566,Intercity,Nijmegen,23:28:00,23:28:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366502606,Sprinter,Arnhem Centraal,22:58:00,22:58:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366502807,Sprinter,Arnhem Centraal,22:45:00,22:45:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,366503053,Sprinter,Nijmegen,23:15:00,23:15:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,366503263,Intercity,Elst,00:00:00,00:00:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,366503579,Intercity,Elst,23:30:00,23:30:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366503894,Intercity,Zwolle,23:01:00,23:01:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,366504096,Sprinter,Nijmegen,22:45:00,22:45:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366504201,Intercity,Zwolle,00:38:00,00:38:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,366505039,Intercity,Nijmegen,22:58:00,22:58:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366505123,Sprinter,Zutphen,00:15:00,00:15:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366505221,Intercity,Zwolle,23:02:00,23:02:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,366506116,Intercity,Nijmegen,00:12:00,00:12:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366506177,Intercity,Zwolle,23:32:00,23:32:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,366506591,Sprinter,Nijmegen,23:45:00,23:45:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,366506755,Intercity,Elst,23:00:00,23:00:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,366507118,Intercity,Zutphen,00:01:00,00:01:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,368482188,Intercity,Arnhem Centraal,00:31:00,00:31:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,368483990,Sprinter,Zutphen,23:15:00,23:15:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,368484098,Sprinter,Nijmegen,23:46:00,23:46:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,369748997,Sprinter,Nijmegen,23:32:00,23:32:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,369750306,Sprinter,Dordrecht,22:59:00,22:59:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,369751009,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,369751065,Sprinter,Arnhem Centraal,23:00:00,23:00:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,369752356,Sprinter,Zutphen,23:14:00,23:14:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,369752455,Sprinter,Arnhem Centraal,00:29:00,00:29:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,369752729,Sprinter,'s-Hertogenbosch,00:02:00,00:02:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,369754249,Sprinter,Dordrecht,23:02:00,23:02:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,369754744,Sprinter,Nijmegen,00:32:00,00:32:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,369756684,Sprinter,Arnhem Centraal,22:44:00,22:44:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,369756760,Sprinter,Arnhem Centraal,23:59:00,23:59:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,372348353,Sprinter,Arnhem Centraal,23:29:00,23:29:00,0
+2026-07-26T22:43:52,2992020,Arnhem Zuid,372353133,Sprinter,Dordrecht,23:06:00,23:06:00,0
+2026-07-26T22:43:52,2992021,Arnhem Zuid,372353390,Sprinter,Arnhem Centraal,22:59:00,22:59:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",372726196,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",372726198,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",372726200,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",372726201,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",372726202,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",372726203,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",372726205,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",372731155,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",372731157,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",372731158,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",372731397,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",372731401,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",372731402,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373044517,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373044519,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373044521,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373044522,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373044523,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373044524,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373044526,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373048963,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373048965,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373048967,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373048969,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373049334,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373049336,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373049337,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373368394,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373368396,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373368397,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373368398,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373368399,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373368400,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373368401,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373372340,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373372342,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373372343,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373372747,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373372749,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373372750,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675340,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675342,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675344,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675345,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675346,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675347,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675349,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675483,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675484,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675485,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675486,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675487,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675488,5,Schuytgraaf,00:06:00,00:06:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675489,5,Presikhaaf,00:19:00,00:19:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675588,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675590,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675592,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675593,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675594,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675595,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675597,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675702,5,Schuytgraaf,23:07:00,23:07:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675704,5,Schuytgraaf,23:37:00,23:37:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675705,5,Presikhaaf,22:50:00,22:50:00,0
+2026-07-26T22:43:52,3891302,"Arnhem, Station Arnhem Zuid",373675706,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675707,5,Presikhaaf,23:20:00,23:20:00,0
+2026-07-26T22:43:52,3891301,"Arnhem, Station Arnhem Zuid",373675709,5,Presikhaaf,23:50:00,23:50:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373675711,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373675773,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373675775,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373675776,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373675777,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373675778,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373675779,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373675780,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373675866,5,Schuytgraaf,23:06:00,23:06:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373675868,5,Schuytgraaf,23:36:00,23:36:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373675869,5,Presikhaaf,22:49:00,22:49:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373675870,5,Schuytgraaf,00:05:00,00:05:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373675871,5,Presikhaaf,23:19:00,23:19:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373675873,5,Presikhaaf,23:49:00,23:49:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373675875,5,Presikhaaf,00:18:00,00:18:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373679622,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373679624,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373679625,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373679681,36,Arnhem CS,22:39:00,22:39:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373679683,36,Arnhem CS,23:04:00,23:04:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373679685,36,Arnhem CS,00:04:00,00:04:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373679687,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373679719,36,Arnhem CS,23:03:00,23:03:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373679721,36,Arnhem CS,00:03:00,00:03:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373679722,36,Heteren,23:26:00,23:26:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373679864,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373679865,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373679868,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373679869,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680012,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680013,43,Arnhem Station Zuid,23:31:00,23:31:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680016,43,Arnhem Station Zuid,00:31:00,00:31:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373680017,43,Apeldoorn Station,23:37:00,23:37:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680052,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680054,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373680055,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680090,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680092,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373680093,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680126,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680128,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373680129,43,Apeldoorn Station,23:38:00,23:38:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680162,43,Arnhem Station Zuid,23:30:00,23:30:00,0
+2026-07-26T22:43:53,3891302,"Arnhem, Station Arnhem Zuid",373680164,43,Arnhem Station Zuid,00:30:00,00:30:00,0
+2026-07-26T22:43:53,3891301,"Arnhem, Station Arnhem Zuid",373680165,43,Apeldoorn Station,23:38:00,23:38:00,0
