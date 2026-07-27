@@ -17,6 +17,35 @@ set -euo pipefail
 # en pas WIJKEN_LAYER / BUURTEN_LAYER / GEMEENTEN_LAYER en stap 5 hieronder aan.
 # ============================================
 
+# ============================================
+# GDAL / PROJ configuratie
+# Gebruik systeem GDAL i.p.v. Anaconda GDAL
+# ============================================
+export PROJ_LIB=/usr/share/proj
+
+PGBIN="/usr/bin"
+GDAL_BIN="/usr/bin"
+
+PSQL="$PGBIN/psql"
+OGR2OGR="$GDAL_BIN/ogr2ogr"
+OGRINFO="$GDAL_BIN/ogrinfo"
+
+if [[ ! -x "$PSQL" ]]; then
+    echo "FOUT: psql niet gevonden op $PSQL"
+    exit 1
+fi
+
+if [[ ! -x "$OGR2OGR" ]]; then
+    echo "FOUT: ogr2ogr niet gevonden op $OGR2OGR"
+    exit 1
+fi
+
+if [[ ! -x "$OGRINFO" ]]; then
+    echo "FOUT: ogrinfo niet gevonden op $OGRINFO"
+    exit 1
+fi
+
+
 # --- Pas deze paden aan naar jouw eigen situatie ---
 GTFS_DIR="/home/krijn/Desktop/ov_game/gtfs_static"
 CBS_GPKG="/home/krijn/Desktop/ov_game/data/WijkBuurtkaart_2026_v0.gpkg"
