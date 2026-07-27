@@ -1,12 +1,15 @@
 # GTFS data (statisch + afgeleide bestanden)
 gtfs_nl_static/
+gtfs_static/
 *.zip
 *.pb
 *.geojson
 
+# GIS data
 data/
+*.gpkg
 
-# Losse GTFS-tabellen, voor het geval ze buiten gtfs_nl_static/ staan
+# Losse GTFS-tabellen
 agency.txt
 stops.txt
 routes.txt
@@ -22,3 +25,6 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# IDE
+.vscode/
