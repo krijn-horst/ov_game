@@ -6,60 +6,47 @@ import "./HomePage.css";
 
 const HomePage = () => {
 
-    const { user, logout } = useAuth();
-
+    const { user, isGuest, logout } = useAuth();
     const navigate = useNavigate();
 
-
     useEffect(() => {
-
-        if (!user) {
+        if (!user && !isGuest) {
             navigate("/login");
         }
-
-    }, [user, navigate]);
-
-
+    }, [user, isGuest, navigate]);
 
     const handleLogout = () => {
-
         logout();
-
         navigate("/login");
-
     };
 
-
-
-    if (!user) {
+    if (!user && !isGuest) {
         return null;
     }
-
-
 
     return (
 
         <div className="home-container">
 
-
             <div className="home-card">
 
-
                 <h1>
-                    Welcome, {user.username} 🚆
+                    {
+                        isGuest
+                        ? "Welcome, traveler 🚆"
+                        : `Welcome, ${user?.username} 🚆`
+                    }
                 </h1>
 
-
                 <p>
-                    Ready for your next journey?
+                    {
+                        isGuest
+                        ? "Explore public transport without an account"
+                        : "Ready for your next journey?"
+                    }
                 </p>
 
-
-
-
                 <div className="stats">
-
-
                     <div className="stat-box">
 
                         <h2>
@@ -72,9 +59,6 @@ const HomePage = () => {
 
                     </div>
 
-
-
-
                     <div className="stat-box">
 
                         <h2>
@@ -86,29 +70,29 @@ const HomePage = () => {
                         </p>
 
                     </div>
-
-
-
                 </div>
 
+                {
+                    !isGuest && (
+                        <button onClick={handleLogout}>
+                            Logout
+                        </button>
+                    )
+                }
 
-
-
-                <button
-                    onClick={handleLogout}
-                >
-                    Logout
-                </button>
-
-
+                {
+                    isGuest && !user && (
+                        <button onClick={() => {
+                            navigate("/login");
+                        }}>
+                            Back to Login
+                        </button>
+                    )
+                }
 
             </div>
-
-
         </div>
 
     );
 };
-
-
 export default HomePage;

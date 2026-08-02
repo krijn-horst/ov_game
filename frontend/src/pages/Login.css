@@ -151,3 +151,22 @@ button:hover {
     border: 2px solid red !important;
 
 }
+
+.guest-button {
+
+    margin-top: 15px;
+
+    background: transparent;
+
+    color: #1e88e5;
+
+    border: 1px solid #1e88e5;
+
+}
+
+
+.guest-button:hover {
+
+    background: #e3f2fd;
+
+}
