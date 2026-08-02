@@ -1,91 +1,104 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
+import { useAuth } from "../context/AuthContext";
 import "./Register.css";
 
+
 const Register = () => {
+
     const [username, setUsername] = useState("");
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
+
     const [error, setError] = useState("");
     const [errorField, setErrorField] = useState("");
 
+    const { register } = useAuth();
+
+    const navigate = useNavigate();
+
+
+
     const handleRegister = (e: React.FormEvent) => {
-    e.preventDefault();
 
-    const existingUsers = JSON.parse(
-        sessionStorage.getItem("users") || "[]"
-    );
+        e.preventDefault();
 
-    const usernameExists = existingUsers.some(
-        (user: any) => user.username === username
-    );
-
-    const emailExists = existingUsers.some(
-        (user: any) => user.email === email
-    );
+        setError("");
+        setErrorField("");
 
 
-    if (usernameExists) {
-        setError("Username already exists");
-        setErrorField("username");
-        return;
-    }
+        const errorMessage = register(
+            username,
+            email,
+            password
+        );
 
 
-    if (emailExists) {
-        setError("Email already exists");
-        setErrorField("email");
-        return;
-    }
+        if (errorMessage) {
+
+            setError(errorMessage);
 
 
-    const newUser = {
-        username,
-        email,
-        password,
+            if (errorMessage.includes("Username")) {
+                setErrorField("username");
+            }
+
+
+            if (errorMessage.includes("Email")) {
+                setErrorField("email");
+            }
+
+
+            return;
+
+        }
+
+
+        navigate("/login");
+
     };
 
 
-    existingUsers.push(newUser);
-
-
-    sessionStorage.setItem(
-        "users",
-        JSON.stringify(existingUsers)
-    );
-
-
-    alert("Account created!");
-
-
-    window.location.href = "/login";
-};
 
     return (
+
         <div className="register-container">
 
             <div className="register-card">
 
-                <h1>OV Quest</h1>
+
+                <h1>
+                    OV Quest
+                </h1>
+
 
                 <p className="subtitle">
                     Create an account
                 </p>
 
+
+
                 <form onSubmit={handleRegister}>
+
 
                     <div className="form-group">
 
-                        <label>Username</label>
+                        <label>
+                            Username
+                        </label>
+
 
                         <input
+
                             className={
                                 errorField === "username"
-                                ? "input-error"
-                                : ""
+                                    ? "input-error"
+                                    : ""
                             }
 
                             type="text"
+
+                            placeholder="Choose a username"
 
                             value={username}
 
@@ -94,22 +107,34 @@ const Register = () => {
                                 setError("");
                                 setErrorField("");
                             }}
+
+                            required
+
                         />
 
                     </div>
 
+
+
+
                     <div className="form-group">
 
-                        <label>Email</label>
+                        <label>
+                            Email
+                        </label>
+
 
                         <input
+
                             className={
                                 errorField === "email"
-                                ? "input-error"
-                                : ""
+                                    ? "input-error"
+                                    : ""
                             }
 
                             type="email"
+
+                            placeholder="Enter your email"
 
                             value={email}
 
@@ -118,52 +143,94 @@ const Register = () => {
                                 setError("");
                                 setErrorField("");
                             }}
+
+                            required
+
                         />
 
                     </div>
+
+
+
 
                     <div className="form-group">
 
-                        <label>Password</label>
+                        <label>
+                            Password
+                        </label>
+
 
                         <input
+
                             type="password"
+
                             placeholder="Choose a password"
+
                             value={password}
-                            onChange={(e) => setPassword(e.target.value)}
+
+                            onChange={(e) =>
+                                setPassword(e.target.value)
+                            }
+
                             required
+
                         />
 
                     </div>
 
-                    {error && (
-                        <p className="error-message">
-                            {error}
-                        </p>
-                    )}
 
-                        <button type="submit">
+
+
+                    {
+                        error && (
+
+                            <p className="error-message">
+                                {error}
+                            </p>
+
+                        )
+                    }
+
+
+
+                    <button type="submit">
+
                         Register
+
                     </button>
+
+
 
                 </form>
 
+
+
+
                 <div className="divider" />
+
+
 
                 <p className="register">
 
                     Already have an account?
 
+
                     <Link to="/login">
                         Login
                     </Link>
 
+
                 </p>
+
+
 
             </div>
 
+
         </div>
+
     );
 };
+
 
 export default Register;
