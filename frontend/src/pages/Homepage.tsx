@@ -1,4 +1,3 @@
-import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import "./HomePage.css";
@@ -9,20 +8,10 @@ const HomePage = () => {
     const { user, isGuest, logout } = useAuth();
     const navigate = useNavigate();
 
-    useEffect(() => {
-        if (!user && !isGuest) {
-            navigate("/login");
-        }
-    }, [user, isGuest, navigate]);
-
     const handleLogout = () => {
         logout();
         navigate("/login");
     };
-
-    if (!user && !isGuest) {
-        return null;
-    }
 
     return (
 
