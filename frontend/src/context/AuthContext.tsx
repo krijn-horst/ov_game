@@ -52,8 +52,12 @@ export const AuthProvider = ({
             : null
         );
 
+    const storedGuest =
+        sessionStorage.getItem("guest");
+
+
     const [isGuest, setIsGuest] =
-        useState(false);
+        useState(storedGuest === "true");
 
     const login = (
         username: string,
@@ -78,6 +82,11 @@ export const AuthProvider = ({
             "currentUser",
             JSON.stringify(foundUser)
         );
+
+        sessionStorage.removeItem(
+            "guest"
+        );
+        setIsGuest(false);
 
         setUser(foundUser);
 
@@ -129,13 +138,23 @@ export const AuthProvider = ({
     };
 
     const continueAsGuest = () => {
-        setIsGuest(true);
-    };
+            sessionStorage.setItem(
+                "guest",
+                "true"
+            );
+            setIsGuest(true);
+        };
 
-    const logout = () => {
+        const logout = () => {
+
         sessionStorage.removeItem(
             "currentUser"
         );
+
+        sessionStorage.removeItem(
+            "guest"
+        );
+
         setUser(null);
         setIsGuest(false);
     };
