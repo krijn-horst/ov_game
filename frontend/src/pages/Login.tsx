@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import "./Login.css";
 
 const Login = () => {
@@ -62,7 +63,7 @@ const Login = () => {
 
                 <p className="register">
                     Don't have an account?
-                    <a href="#"> Register</a>
+                    <Link to="/register"> Register</Link>
                 </p>
 
             </div>
