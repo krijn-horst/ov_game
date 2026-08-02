@@ -61,24 +61,6 @@ const HomePage = () => {
                     </div>
                 </div>
 
-                {
-                    !isGuest && (
-                        <button onClick={handleLogout}>
-                            Logout
-                        </button>
-                    )
-                }
-
-                {
-                    isGuest && !user && (
-                        <button onClick={() => {
-                            navigate("/login");
-                        }}>
-                            Back to Login
-                        </button>
-                    )
-                }
-
             </div>
         </div>
 
