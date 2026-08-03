@@ -14,3 +14,40 @@
     overflow: hidden;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
+
+.stop-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #0b6e4f;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+}
+
+.map-error {
+  padding: 8px 12px;
+  background: #fde8e8;
+  color: #b00020;
+  border-radius: 8px;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.marker-cluster-custom {
+  background: rgba(11, 110, 79, 0.15);
+}
+.marker-cluster-custom div {
+  background: #0b6e4f;
+  color: #fff;
+  width: 34px;
+  height: 34px;
+  margin-left: 3px;
+  margin-top: 3px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 700;
+  font-family: inherit;
+}
