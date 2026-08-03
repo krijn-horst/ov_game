@@ -1,22 +1,13 @@
-import { useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import "./Homepage.css";
 
 
 const HomePage = () => {
 
-    const { user, isGuest, logout } = useAuth();
-    const navigate = useNavigate();
-
-    const handleLogout = () => {
-        logout();
-        navigate("/login");
-    };
+    const { user, isGuest} = useAuth();
 
     return (
-
         <div className="home-container">
-
             <div className="home-card">
 
                 <h1>
@@ -60,24 +51,6 @@ const HomePage = () => {
 
                     </div>
                 </div>
-
-                {
-                    !isGuest && (
-                        <button onClick={handleLogout}>
-                            Logout
-                        </button>
-                    )
-                }
-
-                {
-                    isGuest && !user && (
-                        <button onClick={() => {
-                            navigate("/login");
-                        }}>
-                            Back to Login
-                        </button>
-                    )
-                }
 
             </div>
         </div>
