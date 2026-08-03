@@ -1,0 +1,16 @@
+.route-page {
+    padding: 20px;
+    height: calc(100vh - 80px);
+}
+
+.route-page h1 {
+    margin-bottom: 20px;
+}
+
+.map {
+    width: 100%;
+    height: calc(100% - 60px);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
