@@ -1,6 +1,7 @@
 # GTFS data (statisch + afgeleide bestanden)
 gtfs_nl_static/
 gtfs_static/
+stops/database/
 *.zip
 *.pb
 *.geojson
