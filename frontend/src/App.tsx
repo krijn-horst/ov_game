@@ -4,7 +4,7 @@ import Register from "./pages/Register";
 import HomePage from "./pages/Homepage";
 import Layout from "./components/Layout";
 import ProtectedRoute from "./components/ProtectedRoute";
-
+import RoutePage from "./pages/RoutePage"
 
 function App() {
 
@@ -33,6 +33,12 @@ function App() {
                     path="/home"
                     element={<HomePage />}
                 />
+
+
+            <Route
+                path="/routes"
+                element={<RoutePage />}
+            />
 
             </Route>
 
