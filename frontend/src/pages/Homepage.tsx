@@ -1,5 +1,5 @@
 import { useAuth } from "../context/AuthContext";
-import "./HomePage.css";
+import "./Homepage.css";
 
 
 const HomePage = () => {
