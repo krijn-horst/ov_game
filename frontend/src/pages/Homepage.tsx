@@ -1,22 +1,13 @@
-import { useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import "./HomePage.css";
 
 
 const HomePage = () => {
 
-    const { user, isGuest, logout } = useAuth();
-    const navigate = useNavigate();
-
-    const handleLogout = () => {
-        logout();
-        navigate("/login");
-    };
+    const { user, isGuest} = useAuth();
 
     return (
-
         <div className="home-container">
-
             <div className="home-card">
 
                 <h1>
