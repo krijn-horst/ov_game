@@ -1,4 +1,5 @@
 import { Routes, Route } from "react-router-dom";
+
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import HomePage from "./pages/Homepage";
@@ -12,6 +13,8 @@ function App() {
 
         <Routes>
 
+            {/* Public pages */}
+
             <Route
                 path="/login"
                 element={<Login />}
@@ -22,6 +25,9 @@ function App() {
                 element={<Register />}
             />
 
+
+            {/* Application */}
+
             <Route
                 element={
                     <ProtectedRoute>
@@ -29,16 +35,16 @@ function App() {
                     </ProtectedRoute>
                 }
             >
+
                 <Route
                     path="/home"
                     element={<HomePage />}
                 />
 
-
-            <Route
-                path="/routes"
-                element={<RoutePage />}
-            />
+                <Route
+                    path="/routes"
+                    element={<RoutePage />}
+                />
 
             </Route>
 
@@ -46,4 +52,6 @@ function App() {
 
     );
 }
+
+
 export default App;

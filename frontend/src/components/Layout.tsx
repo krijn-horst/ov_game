@@ -2,12 +2,15 @@ import { Link, Outlet } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import "./Layout.css";
 
+
 const Layout = () => {
+
     const {
         user,
         isGuest,
         logout
     } = useAuth();
+
 
     return (
 
@@ -19,6 +22,7 @@ const Layout = () => {
                     🚆 OV Quest
                 </div>
 
+
                 <div className="nav-links">
 
                     <Link to="/home">
@@ -29,40 +33,37 @@ const Layout = () => {
                         Routes
                     </Link>
 
-                    {
-                        !isGuest && user && (
-                            <>
-                                <Link to="/profile">
-                                    Profile
-                                </Link>
 
-                                <Link to="/achievements">
-                                    Achievements
-                                </Link>
-                            </>
-                        )
-                    }
-
-                    {
-                        user && (
-                            <button
-                                onClick={logout}
-                            >
-                                Logout
-                            </button>
-                        )
-                    }
-
-                    {
-                        isGuest && (
-                            <Link to="/login">
-                                Login
+                    {!isGuest && user && (
+                        <>
+                            <Link to="/profile">
+                                Profile
                             </Link>
-                        )
-                    }
+
+                            <Link to="/achievements">
+                                Achievements
+                            </Link>
+                        </>
+                    )}
+
+
+                    {user && (
+                        <button onClick={logout}>
+                            Logout
+                        </button>
+                    )}
+
+
+                    {isGuest && (
+                        <Link to="/login">
+                            Login
+                        </Link>
+                    )}
 
                 </div>
+
             </nav>
+
 
             <main>
                 <Outlet />
@@ -72,4 +73,6 @@ const Layout = () => {
 
     );
 };
+
+
 export default Layout;
