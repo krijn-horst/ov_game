@@ -1,7 +1,10 @@
 import { Routes, Route } from "react-router-dom";
+
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import HomePage from "./pages/Homepage";
+import RoutePage from "./pages/RoutePage";
+
 import Layout from "./components/Layout";
 import ProtectedRoute from "./components/ProtectedRoute";
 
@@ -11,6 +14,8 @@ function App() {
     return (
 
         <Routes>
+
+            {/* Public pages */}
 
             <Route
                 path="/login"
@@ -22,6 +27,9 @@ function App() {
                 element={<Register />}
             />
 
+
+            {/* Application */}
+
             <Route
                 element={
                     <ProtectedRoute>
@@ -29,9 +37,15 @@ function App() {
                     </ProtectedRoute>
                 }
             >
+
                 <Route
                     path="/home"
                     element={<HomePage />}
+                />
+
+                <Route
+                    path="/routes"
+                    element={<RoutePage />}
                 />
 
             </Route>
@@ -40,4 +54,6 @@ function App() {
 
     );
 }
+
+
 export default App;
