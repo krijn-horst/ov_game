@@ -7,7 +7,7 @@ import RoutePage from "./pages/RoutePage";
 
 import Layout from "./components/Layout";
 import ProtectedRoute from "./components/ProtectedRoute";
-
+import RoutePage from "./pages/RoutePage"
 
 function App() {
 
