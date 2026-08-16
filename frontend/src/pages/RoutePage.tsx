@@ -139,6 +139,24 @@ const createPoints = (
 };
 
 
+const handleStopClick = (
+    stopId: string | undefined
+) => {
+
+    if (!stopId) {
+        return;
+    }
+
+    console.log(
+        "Selected stop_id:",
+        stopId
+    );
+
+    // Later:
+    // fetch(`/api/stops/${stopId}/`)
+};
+
+
 /*
  * Component responsible for rendering
  * clusters and individual stops.
@@ -470,7 +488,6 @@ const StopLayer = ({
                     return (
 
                         <CircleMarker
-
                             key={
                                 properties.stop_id ??
                                 `${latitude}-${longitude}`
@@ -484,21 +501,19 @@ const StopLayer = ({
                             radius={5}
 
                             pathOptions={{
-
-                                color:
-                                    "white",
-
-                                weight:
-                                    1,
-
-                                fillColor:
-                                    "#2563eb",
-
-                                fillOpacity:
-                                    0.85,
-
+                                color: "white",
+                                weight: 1,
+                                fillColor: "#2563eb",
+                                fillOpacity: 0.85,
                             }}
 
+                            eventHandlers={{
+                                click: () => {
+                                    handleStopClick(
+                                        properties.stop_id
+                                    );
+                                },
+                            }}
                         >
 
                             <Popup>
